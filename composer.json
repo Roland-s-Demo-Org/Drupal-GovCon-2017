@@ -319,7 +319,7 @@
             }
         },
         "drupal-scaffold": {
-           "locations": {
+            "locations": {
                 "web-root": "docroot/"
             },
             "file-mapping": {
